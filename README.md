@@ -1,6 +1,6 @@
 # csci3308
 
-This repository is for Software Development Methods and Tools 
+Emma Langdon
 
+Lab 4: Version Control
 
-Fall 2016
